@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+body {
+  background-image: url(https://img.freepik.com/free-vector/cinema-room-background_1017-8728.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721001600&semt=ais_user);
+  background-repeat: no-repeat;
+  background-size: 100% 100vh;
+}
